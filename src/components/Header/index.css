@@ -1,0 +1,18 @@
+.links-container {
+  display: flex;
+  align-items: center;
+  margin: auto;
+  max-width: 1100px;
+}
+
+.links {
+  list-style-type: none;
+  padding-left: 0;
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
+.link-item {
+  font-size: 25px;
+  margin: 10px;
+}
